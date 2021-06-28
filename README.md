@@ -8,8 +8,8 @@
  <center> Design criado por <a href="https://www.instagram.com/tiagoluchtenberg/?hl=pt-br">Tiago luchtenberg</a> </center>
 
 ## Tecnologias usadas
-* [Dart]
-* [Flutter]
+* Dart
+* Flutter
 
 ## Executando o projeto
 
