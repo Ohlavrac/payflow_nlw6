@@ -1,5 +1,5 @@
 # PayFlow
- Aplicativo desenvolvido durante a **[Next Level Week 6](https://nextlevelweek.com/)** , para gerenciamento de boletos, onde você pode cadastrar boleotos usando o QR code ou passando manualmente para controle e pagamento.
+ Aplicativo desenvolvido durante a **[Next Level Week 6](https://nextlevelweek.com/)** , para gerenciamento de boletos, onde você pode cadastrar boletos usando o QR code ou passando manualmente para controle e pagamento.
 
 ## Preview 
 
@@ -18,7 +18,7 @@
 git clone https://github.com/Ohlavrac/payflow_nlw6.git
 
 # Entrar no diretório
-cd payflow_nwl6
+cd payflow_nwl6/nlw_together_flutter
 
 # Atualize as dependencias
 flutter pub get
